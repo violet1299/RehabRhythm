@@ -232,7 +232,7 @@ class RehabRhythmGame:
         self.scene = TRAINING
         self.training_start_time = time.time()
         self.total_pause_time = 0
-        print("进入训练阶段")
+        print("In training")
         self.audio.play_training_music(self.chart.music_path)
     def resume_training_from_pause(self):
         """从暂停页面继续训练。"""
