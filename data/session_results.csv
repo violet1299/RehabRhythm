@@ -1,0 +1,17 @@
+time,patient_id,difficulty,song,chart,score,accuracy,perfect,good,miss,max_combo,final_bpm,training_duration,reaction,stability,fatigue,ai_advice,hand_range_x,hand_range_y
+2026-06-29 19:48:42,patient_001,Easy,Demo Training,Demo Smart Training,2751,96.8,2,28,1,18,66,90,97,100,Medium,Excellent control. Continue current rhythm training.,782,435
+2026-06-29 20:45:41,patient_001,Normal,Demo Training,Demo Smart Training,6599,93.5,19,39,4,37,80,90,100,100,High,Good progress. Keep regular gentle training.,552,345
+2026-06-30 02:08:12,patient_001,Hard,Morning Gentle,Morning Gentle Training,13749,93.7,32,101,9,38,91,90,100,100,High,Reduce rhythm speed and focus on stable hand movement.,800,542
+2026-06-30 02:58:45,patient_001,Normal,Active Rhythm,Active Rhythm Training,9034,98.7,27,48,1,41,88,90,100,100,Medium,Excellent control. Continue current rhythm training.,679,418
+2026-07-02 18:10:46,patient_001,Normal,Demo Training,Demo Smart Training,7247,98.4,20,41,1,45,80,90,100,100,Medium,Excellent control. Continue current rhythm training.,770,473
+2026-07-02 18:22:13,patient_001,Normal,Demo Training,Demo Smart Training,7206,96.8,29,31,2,32,80,90,100,100,Medium,Excellent control. Continue current rhythm training.,724,475
+2026-07-02 18:46:19,patient_001,Normal,Demo Training,Demo Smart Training,5719,83.9,28,24,10,16,68,90,97,88,High,Reduce rhythm speed and focus on stable hand movement.,546,294
+2026-07-02 19:11:53,patient_001,Hard,Morning Gentle,Morning Gentle Training,12081,88.0,31,94,17,16,85,90,100,92,High,Reduce rhythm speed and focus on stable hand movement.,667,387
+2026-07-02 21:57:36,patient_001,Normal,Demo Training,Demo Smart Training,7667,96.8,28,32,2,45,80,90,100,100,Medium,Excellent control. Continue current rhythm training.,707,555
+2026-07-14 01:44:50,patient_001,Normal,Demo Training,Demo Smart Training,6165,90.3,25,31,6,22,72,90,100,96,High,Reduce rhythm speed and focus on stable hand movement.,1208,329
+2026-07-20 23:18:12,patient_001,Normal,Demo Training,Demo Smart Training,5894,82.3,28,23,11,24,60,90,96,89,High,Reduce rhythm speed and focus on stable hand movement.,1114,491
+2026-07-21 22:07:55,patient_001,Normal,Demo Training,Demo Smart Training,5822,83.9,29,23,10,15,62,90,98,88,High,Reduce rhythm speed and focus on stable hand movement.,930,339
+2026-07-22 18:59:38,patient_001,Normal,Demo Training,Demo Smart Training,5525,87.1,19,35,8,18,66,90,96,92,High,Reduce rhythm speed and focus on stable hand movement.,910,375
+2026-07-22 19:34:32,patient_001,Normal,Demo Training,Demo Smart Training,5753,83.9,28,24,10,18,66,90,97,89,High,Reduce rhythm speed and focus on stable hand movement.,671,289
+2026-07-27 16:23:55,patient_001,Normal,Morning Gentle,Morning Gentle Training,4716,85.4,23,18,7,24,74,90,96,92,High,Reduce rhythm speed and focus on stable hand movement.,1266,347
+2026-07-27 16:31:11,patient_001,Normal,Morning Gentle,Morning Gentle Training,5070,85.4,22,19,7,32,78,90,96,95,High,Reduce rhythm speed and focus on stable hand movement.,1020,433

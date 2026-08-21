@@ -1,0 +1,256 @@
+{
+  "title": "Demo Smart Training",
+  "music": "assets/music/bgm.wav",
+  "bpm": 70,
+  "duration": 90,
+  "notes": [
+    {
+      "time": 3.0,
+      "type": "hit"
+    },
+    {
+      "time": 4.35,
+      "type": "tap"
+    },
+    {
+      "time": 5.7,
+      "type": "hit"
+    },
+    {
+      "time": 7.05,
+      "type": "hold"
+    },
+    {
+      "time": 8.4,
+      "type": "hit"
+    },
+    {
+      "time": 9.75,
+      "type": "tap"
+    },
+    {
+      "time": 11.1,
+      "type": "hit"
+    },
+    {
+      "time": 12.45,
+      "type": "hold"
+    },
+    {
+      "time": 13.8,
+      "type": "hit"
+    },
+    {
+      "time": 15.15,
+      "type": "tap"
+    },
+    {
+      "time": 16.5,
+      "type": "hit"
+    },
+    {
+      "time": 17.85,
+      "type": "hold"
+    },
+    {
+      "time": 19.2,
+      "type": "hit"
+    },
+    {
+      "time": 20.55,
+      "type": "tap"
+    },
+    {
+      "time": 21.9,
+      "type": "hit"
+    },
+    {
+      "time": 23.25,
+      "type": "hold"
+    },
+    {
+      "time": 24.6,
+      "type": "hit"
+    },
+    {
+      "time": 25.95,
+      "type": "tap"
+    },
+    {
+      "time": 27.3,
+      "type": "hit"
+    },
+    {
+      "time": 28.65,
+      "type": "hold"
+    },
+    {
+      "time": 30.0,
+      "type": "hit"
+    },
+    {
+      "time": 31.35,
+      "type": "tap"
+    },
+    {
+      "time": 32.7,
+      "type": "hit"
+    },
+    {
+      "time": 34.05,
+      "type": "hold"
+    },
+    {
+      "time": 35.4,
+      "type": "hit"
+    },
+    {
+      "time": 36.75,
+      "type": "tap"
+    },
+    {
+      "time": 38.1,
+      "type": "hit"
+    },
+    {
+      "time": 39.45,
+      "type": "hold"
+    },
+    {
+      "time": 40.8,
+      "type": "hit"
+    },
+    {
+      "time": 42.15,
+      "type": "tap"
+    },
+    {
+      "time": 43.5,
+      "type": "hit"
+    },
+    {
+      "time": 44.85,
+      "type": "hold"
+    },
+    {
+      "time": 46.2,
+      "type": "hit"
+    },
+    {
+      "time": 47.55,
+      "type": "tap"
+    },
+    {
+      "time": 48.9,
+      "type": "hit"
+    },
+    {
+      "time": 50.25,
+      "type": "hold"
+    },
+    {
+      "time": 51.6,
+      "type": "hit"
+    },
+    {
+      "time": 52.95,
+      "type": "tap"
+    },
+    {
+      "time": 54.3,
+      "type": "hit"
+    },
+    {
+      "time": 55.65,
+      "type": "hold"
+    },
+    {
+      "time": 57.0,
+      "type": "hit"
+    },
+    {
+      "time": 58.35,
+      "type": "tap"
+    },
+    {
+      "time": 59.7,
+      "type": "hit"
+    },
+    {
+      "time": 61.05,
+      "type": "hold"
+    },
+    {
+      "time": 62.4,
+      "type": "hit"
+    },
+    {
+      "time": 63.75,
+      "type": "tap"
+    },
+    {
+      "time": 65.1,
+      "type": "hit"
+    },
+    {
+      "time": 66.45,
+      "type": "hold"
+    },
+    {
+      "time": 67.8,
+      "type": "hit"
+    },
+    {
+      "time": 69.15,
+      "type": "tap"
+    },
+    {
+      "time": 70.5,
+      "type": "hit"
+    },
+    {
+      "time": 71.85,
+      "type": "hold"
+    },
+    {
+      "time": 73.2,
+      "type": "hit"
+    },
+    {
+      "time": 74.55,
+      "type": "tap"
+    },
+    {
+      "time": 75.9,
+      "type": "hit"
+    },
+    {
+      "time": 77.25,
+      "type": "hold"
+    },
+    {
+      "time": 78.6,
+      "type": "hit"
+    },
+    {
+      "time": 79.95,
+      "type": "tap"
+    },
+    {
+      "time": 81.3,
+      "type": "hit"
+    },
+    {
+      "time": 82.65,
+      "type": "hold"
+    },
+    {
+      "time": 84.0,
+      "type": "hit"
+    },
+    {
+      "time": 85.35,
+      "type": "tap"
+    }
+  ]
+}
