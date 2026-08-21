@@ -16,7 +16,7 @@ class RehabChart:
 
     def load(self):
         if not os.path.exists(self.chart_path):
-            print("未找到谱面，使用默认谱面:", self.chart_path)
+            print("Don't find chart path:", self.chart_path)
             self.create_default_chart(); return
         try:
             with open(self.chart_path, "r", encoding="utf-8") as f:
@@ -35,9 +35,9 @@ class RehabChart:
                 self.base_notes.append({"time": t, "type": typ})
             self.base_notes.sort(key=lambda n:n["time"])
             self.generate_for_difficulty(self.difficulty_key)
-            print("谱面加载成功:", self.title, self.difficulty_key, "音符数:", len(self.notes))
+            print("The spectrum has been loaded successfully:", self.title, self.difficulty_key, "音符数:", len(self.notes))
         except Exception as e:
-            print("谱面加载失败，使用默认谱面:", e)
+            print("Failed to load, use the default:", e)
             self.create_default_chart()
 
     def create_default_chart(self):
